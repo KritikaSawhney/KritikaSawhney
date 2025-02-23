@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kritika Sawhney</h1>
-<h3 align="center">A passionate Software Developer</h3>
+
 
 - 🌱 I’m currently learning **DSA in java and exploring various tech stacks.**
 
