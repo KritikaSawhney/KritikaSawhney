@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td>
+    <td valign="top">
 
 👋 **Hey, I'm Kritika Sawhney!**
 
@@ -9,13 +9,12 @@
 🚀 Open to work and exciting collaboration opportunities!
 
     </td>
-    <td>
-
-<img src="coding.gif" alt="Coding GIF" width="200"/>
-
+    <td valign="top">
+      <img src="coding.gif" alt="Coding GIF" width="200"/>
     </td>
   </tr>
 </table>
+
 
 
 # 💫 About Me:
