@@ -35,9 +35,10 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=KritikaSawhney&theme=tokyonight&hide_border=true"/>
 </p>
 
-
+<p align="center">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KritikaSawhney&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
 
 ---
 
