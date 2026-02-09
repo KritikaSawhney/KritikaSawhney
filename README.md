@@ -1,17 +1,22 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Text section -->
-  <div>
-    <h1>👋 Hey, I'm Kritika Sawhney!</h1>
-    <p>💻 I'm an aspiring <b>Full Stack Developer</b> and <b>AI enthusiast</b>.</p>
-    <p>🌟 Passionate about building cool projects, exploring new technologies, and solving real-world problems.</p>
-    <p>🚀 Open to work and exciting collaboration opportunities!</p>
-  </div>
+<table>
+  <tr>
+    <td>
 
-  <!-- GIF section -->
-  <div>
-    <img src="./coding.gif" alt="Coding GIF" width="200"/>
-  </div>
-</div>
+👋 **Hey, I'm Kritika Sawhney!**
+
+💻 I'm an aspiring **Full Stack Developer** and **AI enthusiast**.  
+🌟 Passionate about building cool projects, exploring new technologies, and solving real-world problems.  
+🚀 Open to work and exciting collaboration opportunities!
+
+    </td>
+    <td>
+
+<img src="coding.gif" alt="Coding GIF" width="200"/>
+
+    </td>
+  </tr>
+</table>
+
 
 # 💫 About Me:
 💻 I build scalable Full-Stack & AI-powered applications  
