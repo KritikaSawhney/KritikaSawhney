@@ -1,6 +1,6 @@
 <img src="coding.gif" alt="Coding GIF" width="220" align="right"/>
 
-# 👋 Hey, I'm Kritika Sawhney! 
+<h1> 👋 Hey, I'm Kritika Sawhney! </h1>
 
 💻 I'm an aspiring **Full Stack Developer** and **AI enthusiast**.  
 🌟 Passionate about building cool projects, exploring new technologies, and solving real-world problems.  
@@ -95,7 +95,7 @@
 </div>
 
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🥇 **Google Hackathon Winner (HackWithIndia)** - Competing among 25,000+ participants  
 🏆 **Winner (HackWithHer 4.0)** - Secured Second Runner-Up & won the Diversity Prize   
@@ -105,7 +105,7 @@
 🚀 **SheFi Scholar 2025** - Chosen among Top 100 women globally for FinTech & DeFi upskilling program
 
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KritikaSawhney&theme=tokyonight"/>
@@ -125,7 +125,7 @@
 </div>
 
 
-## 🤝 Let's Connect & Collaborate!
+# 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
