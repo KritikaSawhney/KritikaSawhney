@@ -28,9 +28,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KritikaSawhney&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KritikaSawhney&theme=tokyonight"/> </p>
  
 
