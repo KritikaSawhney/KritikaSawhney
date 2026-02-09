@@ -1,4 +1,4 @@
-<img src="coding.gif" alt="Coding GIF" width="250" align="right"/>
+<img src="coding.gif" alt="Coding GIF" width="230" align="right"/>
 
 # 👋 Hey, I'm Kritika Sawhney!
 
