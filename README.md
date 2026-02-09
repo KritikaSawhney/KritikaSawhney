@@ -22,6 +22,8 @@
 
 ## 📊 GitHub Analytics
 
+<img src="https://github-readme-stats.vercel.app/api?username=KritikaSawhney&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KritikaSawhney&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaSawhney&layout=compact&theme=tokyonight&hide_border=true"/>
