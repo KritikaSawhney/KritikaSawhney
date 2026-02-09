@@ -12,10 +12,10 @@
 
 ## 🏆 Achievements & Recognition
 
-🥇 **Google Hackathon Winner(HackWithIndia)** — **Presented an AI-powered trading bot after competing among 25,000+ participants**  
+🥇 **Google Hackathon Winner(HackWithIndia)** - **Presented an AI-powered trading bot after competing among 25,000+ participants**  
 🏆 **Winner(HackWithHer 4.0)** — **Built women-focused community platform and secured Second Runner-Up & won the Diversity Prize**   
 🧠 **Competitive Programming & DSA** — **Solved problems on LeetCode & Codeforces; Achieved Codeforces Specialist (Max Rating: 1450)** 
-🌍 **SheCodes Scholar 2024** — **Selected for global coding scholarship empowering women in tech**
+🌍 **SheCodes Scholar 2024** — **Selected for global coding scholarship empowering women in tech** <br>
 🚀 **SheFi Scholar 2025** — **Chosen among Top 100 women globally for FinTech & DeFi upskilling program**
 
 
