@@ -11,6 +11,11 @@
 🌱 Currently strengthening DSA in Java and exploring scalable tech stacks  
 💬 Ask me about Full-Stack Development, DSA, Hackathons & Open Source  
 
+<p align="center">
+  <img src="https://tenor.com/fLPNSPqk32f.gif" alt="Coding GIF" width="500"/>
+</p>
+
+
 
 # 💻 Tech Stack:
 
