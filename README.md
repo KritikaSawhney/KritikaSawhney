@@ -43,8 +43,8 @@
 
 <div align="center">
 
-💻 *Algorithms speak louder than words* ✨  
-🌟 *Code. Collaborate. Create.* 💡  
+💻*Algorithms speak louder than words*✨  
+🌟*Code. Collaborate. Create.*💡  
 
 If you find my work interesting or want to collaborate on exciting projects,  
 let's build something amazing together! 🚀
