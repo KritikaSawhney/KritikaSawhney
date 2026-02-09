@@ -3,7 +3,7 @@
 <h2>👋 Hey, I'm Kritika Sawhney!</h2>
 
 <p>💻 I'm an aspiring <strong>Full Stack Developer</strong> and <strong>AI enthusiast</strong>.</p>
-<p>🌟 Passionate about building cool projects, exploring new technologies, and solving real-world problems.</p>
+<p>🌟 Passionate about building cool projects, exploring technologies, and solving real-world problems.</p>
 <p>🚀 Open to work and exciting collaboration opportunities!</p>
 
 
