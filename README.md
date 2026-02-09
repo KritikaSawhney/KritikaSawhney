@@ -12,7 +12,7 @@
 💬 Ask me about Full-Stack Development, DSA, Hackathons & Open Source  
 
 <p align="center">
-  <img src="https://tenor.com/fLPNSPqk32f.gif" alt="Coding GIF" width="500"/>
+  <img src="https://media.tenor.com/FLPNSPqk32fAAA.gif" alt="Coding GIF" width="500"/>
 </p>
 
 
