@@ -1,6 +1,6 @@
-<img src="coding.gif" alt="Coding GIF" width="230" align="right"/>
+<img src="coding.gif" alt="Coding GIF" width="240" align="right"/>
 
-# 👋 Hey, I'm Kritika Sawhney!
+## 👋 Hey, I'm Kritika Sawhney!
 
 <div>
 💻 I'm an aspiring <strong>Full Stack Developer</strong> and <strong>AI enthusiast</strong>.<br>
