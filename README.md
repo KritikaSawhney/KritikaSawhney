@@ -1,21 +1,19 @@
-<table>
-  <tr>
-    <td valign="top">
-      <p>👋 <strong>Hey, I'm Kritika Sawhney!</strong></p>
+<div>
+  <div align="left" style="display:inline-block; width:60%; vertical-align:top;">
 
-      <p>💻 I'm an aspiring <strong>Full Stack Developer</strong> and <strong>AI enthusiast</strong>.</p>
+👋 <strong>Hey, I'm Kritika Sawhney!</strong>
 
-      <p>🌟 Passionate about building cool projects, exploring new technologies, and solving real-world problems.</p>
+💻 I'm an aspiring <strong>Full Stack Developer</strong> and <strong>AI enthusiast</strong>.  
+🌟 Passionate about building cool projects, exploring new technologies, and solving real-world problems.  
+🚀 Open to work and exciting collaboration opportunities!
 
-      <p>🚀 Open to work and exciting collaboration opportunities!</p>
-    </td>
+  </div>
 
-    <td valign="top">
-      <img src="coding.gif" alt="Coding GIF" width="200" />
-    </td>
-  </tr>
-</table>
->
+  <div align="right" style="display:inline-block; width:35%;">
+    <img src="coding.gif" alt="Coding GIF" width="200" />
+  </div>
+</div>
+
 
 
 
