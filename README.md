@@ -12,18 +12,25 @@
 
 ## 🏆 Achievements
 
-🥇 **Google Hackathon Winner (HackWithIndia)** - **Presented an AI-powered trading bot after competing among 25,000+ participants**  
-🏆 **Winner (HackWithHer 4.0)** - **Built women focused community platform and secured Second Runner-Up & won the Diversity Prize**   
+🥇 **Google Hackathon Winner (HackWithIndia)** - Presented an AI-powered trading bot after competing among 25,000+ participants  
+🏆 **Winner (HackWithHer 4.0)** - Built women focused community platform; Secured Second Runner-Up & won the Diversity Prize   
 💻 **HackRx 2025 (Bajaj Finserv)** - Participated in AI & FinTech Hackathon <br>
-🧠 **Competitive Programming & DSA** - **Solved problems on LeetCode & Codeforces; Achieved Codeforces Specialist (Max Rating: 1450)** <br>
-🌍 **SheCodes Scholar 2024** - **Selected for global coding scholarship empowering women in tech** <br>
-🚀 **SheFi Scholar 2025** - **Chosen among Top 100 women globally for FinTech & DeFi upskilling program**
+🧠 **Competitive Programming & DSA** - Solved problems on LeetCode & Codeforces; Achieved Codeforces Specialist (Max Rating: 1450) <br>
+🌍 **SheCodes Scholar 2024** - Selected for global coding scholarship empowering women in tech <br>
+🚀 **SheFi Scholar 2025** - Chosen among Top 100 women globally for FinTech & DeFi upskilling program
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KritikaSawhney&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=KritikaSawhney&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaSawhney&theme=dark&hide_border=false&layout=compact)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KritikaSawhney&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaSawhney&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KritikaSawhney&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KritikaSawhney&limit=5&theme=dark&combine_all_yearly_contributions=true)
