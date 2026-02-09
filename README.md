@@ -4,7 +4,7 @@
 
 <div>
 💻 I'm an aspiring <strong>Full Stack Developer</strong> and <strong>AI enthusiast</strong>.<br>
-🌟 Passionate about building cool projects, exploring technologies, and solving real-world problems.<br>
+🌟 Passionate about building projects, exploring technologies, and solving real-world problems.<br>
 🚀 Open to work and exciting collaboration opportunities!
 </div>
 
