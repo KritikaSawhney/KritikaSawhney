@@ -1,3 +1,9 @@
+## 👋 Hey, I'm Kritika Sawhney!
+
+I'm an aspiring **Full Stack Developer** and **AI enthusiast**.  
+💻 Passionate about building cool projects, exploring new technologies, and solving real-world problems.  
+🌟 **Open to work** and exciting collaboration opportunities!  
+
 # 💫 About Me:
 💻 I build scalable Full-Stack & AI-powered applications  
 👯 I’m looking to collaborate on Open Source, AI, and Hackathon projects  
