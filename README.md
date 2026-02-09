@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Analytics
 
-![Kritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=KritikaSawhney&show_icons=true&theme=radical)
+![Kritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=KritikaSawhney&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 
 <p align="center">
