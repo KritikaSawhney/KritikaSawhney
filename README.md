@@ -35,16 +35,29 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=KritikaSawhney&theme=tokyonight&hide_border=true"/>
 </p>
 
-
-### 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=KritikaSawhney&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
+## 🤝 Let's Connect & Collaborate!
 
-## 🤝 Connect With Me:
+<div align="center">
+
+💭 *"Algorithms speak louder than words"*  
+*"Code. Collaborate. Create."*  
+
+If you find my work interesting or want to collaborate on exciting projects,  
+let's build something amazing together!  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kritikasawhney) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritikasawhney1010@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritikasawhney1010@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/kritikasawh1010)
+
+</div>
 
 ---
+
+<div align="center">
 [![](https://visitcount.itsvg.in/api?id=KritikaSawhney&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
