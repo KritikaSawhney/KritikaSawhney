@@ -28,13 +28,11 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KritikaSawhney&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KritikaSawhney&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KritikaSawhney&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KritikaSawhney&theme=tokyonight&utcOffset=5.5"/>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KritikaSawhney&theme=tokyonight"/> </p>
+ 
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=KritikaSawhney&theme=tokyonight&hide_border=true"/>
