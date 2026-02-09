@@ -1,13 +1,11 @@
-<img src="coding.gif" alt="Coding GIF" width="240" align="right"/>
+<img src="coding.gif" alt="Coding GIF" width="240" align="right"/> 
 
-<div style="font-size:26px; font-weight:700;">
-👋 Hey, I'm Kritika Sawhney!
-</div> 
+# 👋 Hey, I'm Kritika Sawhney! 
 
-<div>
-💻 I'm an aspiring <strong>Full Stack Developer</strong> and <strong>AI enthusiast</strong>.<br>
-🌟 Passionate about building projects, exploring technologies, and solving real-world problems.<br>
-🚀 Open to work and exciting collaboration opportunities!
+<div> 
+  💻 I'm an aspiring <strong>Full Stack Developer</strong> and <strong>AI enthusiast</strong>.<br> 
+  🌟 Passionate about building projects, exploring technologies, and solving real-world problems.<br> 
+  🚀 Open to work and exciting collaboration opportunities!
 </div>
 
 # 💫 About Me:
