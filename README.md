@@ -2,7 +2,7 @@
 
 <div style="font-size:26px; font-weight:700;">
 👋 Hey, I'm Kritika Sawhney!
-</div>
+</div> 
 
 <div>
 💻 I'm an aspiring <strong>Full Stack Developer</strong> and <strong>AI enthusiast</strong>.<br>
