@@ -12,12 +12,12 @@
 
 ## 🏆 Achievements & Recognition
 
-🥇 **Google Hackathon Winner** — HackWithIndia at Google, Gurugram  
-Competed among **25,000+ participants** and reached the **Top 10 Finalists**, presenting an AI-powered crypto trading bot to the Google judge panel.
-🏆 **Winner — HackWithHer 4.0** — Built **SakhiJunction**, a women-focused self-care & community platform and secured **Second Runner-Up** position while winning the **Diversity Prize**.
-🧠 **Competitive Programming & DSA** — Solved problems across **LeetCode, Codeforces & GeeksforGeeks** and achieved **Codeforces Specialist (Max Rating: 1450)**.
-🌍 **SheCodes Scholar 2024** — Selected for a global coding scholarship empowering women in tech  
-🚀 **SheFi Scholar 2025** — Chosen among **Top 100 women globally** for FinTech & DeFi upskilling program
+🥇 **Google Hackathon Winner** — HackWithIndia at Google, Gurugram <br>
+Competed among **25,000+ participants** and reached the **Top 10 Finalists**, presenting an AI-powered crypto trading bot to the Google judge panel <br>
+🏆 **Winner — HackWithHer 4.0** — Built **SakhiJunction**, a women-focused self-care & community platform and secured **Second Runner-Up** position while winning the **Diversity Prize** <br>
+🧠 **Competitive Programming & DSA** — Solved problems across **LeetCode, Codeforces & GeeksforGeeks** and achieved **Codeforces Specialist (Max Rating: 1450)** <br>
+🌍 **SheCodes Scholar 2024** — Selected for a global coding scholarship empowering women in tech  <br>
+🚀 **SheFi Scholar 2025** — Chosen among **Top 100 women globally** for FinTech & DeFi upskilling program <br>
 
 
 # 📊 GitHub Stats:
