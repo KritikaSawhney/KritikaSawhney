@@ -1,19 +1,22 @@
 <table>
   <tr>
     <td valign="top">
+      <p>👋 <strong>Hey, I'm Kritika Sawhney!</strong></p>
 
-👋 **Hey, I'm Kritika Sawhney!**
+      <p>💻 I'm an aspiring <strong>Full Stack Developer</strong> and <strong>AI enthusiast</strong>.</p>
 
-💻 I'm an aspiring **Full Stack Developer** and **AI enthusiast**.  
-🌟 Passionate about building cool projects, exploring new technologies, and solving real-world problems.  
-🚀 Open to work and exciting collaboration opportunities!
+      <p>🌟 Passionate about building cool projects, exploring new technologies, and solving real-world problems.</p>
 
+      <p>🚀 Open to work and exciting collaboration opportunities!</p>
     </td>
+
     <td valign="top">
-      <img src="coding.gif" alt="Coding GIF" width="200"/>
+      <img src="coding.gif" alt="Coding GIF" width="200" />
     </td>
   </tr>
 </table>
+>
+
 
 
 
