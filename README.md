@@ -43,11 +43,12 @@
 
 <div align="center">
 
-💭 *"Algorithms speak louder than words"*  
-*"Code. Collaborate. Create."*  
+💻*"Algorithms speak louder than words"*✨  
+🌟*"Code. Collaborate. Create."*💡  
 
 If you find my work interesting or want to collaborate on exciting projects,  
-let's build something amazing together!  
+let's build something amazing together! 🚀
+  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kritikasawhney) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritikasawhney1010@gmail.com)
@@ -57,7 +58,4 @@ let's build something amazing together!
 
 ---
 
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=KritikaSawhney&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
 
