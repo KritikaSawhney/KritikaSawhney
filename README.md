@@ -36,10 +36,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KritikaSawhney&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
-
-![Kritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=KritikaSawhney&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=30)
-
-
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KritikaSawhney&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaSawhney&layout=compact&theme=tokyonight&hide_border=true"/>
